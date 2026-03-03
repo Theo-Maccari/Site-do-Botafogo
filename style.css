@@ -51,6 +51,15 @@ border-radius: 30px;
 
 }
 
+.gif{
+
+position: fixed;
+
+bottom: 20px;
+right: 20px;
+
+}
+
 footer{
 
 padding: 10px;
